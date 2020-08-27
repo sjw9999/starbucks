@@ -1,0 +1,13 @@
+html, body {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#image_wrap {
+    width: 1920px;
+    float: left;
+}
+
+#image_wrap .image_01 {}
+#image_wrap .image_02 {}
+#image_wrap .image_03 {}
